@@ -40,23 +40,23 @@ body::before {
 /* ─── TYPOGRAPHY ─── */
 @font-face {
     font-family: 'grotesque.ttf';
-    src: url(font/grotesque.ttf) format('truetype');
+    src: url(grotesque.ttf) format('truetype');
 }
 @font-face {
     font-family: 'guardilostra.otf';
-    src: url(font/guardilostra.otf) format('opentype');
+    src: url(guardilostra.otf) format('opentype');
 }
 @font-face {
     font-family: 'independence.otf';
-    src: url(font/independence.otf) format('opentype');
+    src: url(independence.otf) format('opentype');
 }
 @font-face {
     font-family: 'vinasans.otf';
-    src: url(font/vinasans.otf) format('opentype');
+    src: url(vinasans.otf) format('opentype');
 }
 @font-face {
     font-family: 'rohkea.otf';
-    src: url(font/rohkea.otf) format('opentype');
+    src: url(rohkea.otf) format('opentype');
 }
 .sans {
     font-family: 'grotesque.ttf', sans-serif;
